@@ -3,6 +3,18 @@
     {
       "name": "start_window_background",
       "value": "#FFFFFF"
+    },
+    {
+      "name": "btn_red",
+      "value": "#fa436a"
+    },
+    {
+      "name": "white",
+      "value": "#ffffff"
+    },
+    {
+      "name": "btn_gary",
+      "value": "#c0c4cc"
     }
   ]
 }

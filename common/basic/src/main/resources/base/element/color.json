@@ -1,0 +1,75 @@
+{
+    "color": [
+        {
+            "name": "white",
+            "value": "#fff"
+        },
+        {
+            "name": "black",
+            "value": "#000"
+        },
+        {
+            "name": "page_bcg",
+            "value": "#f5f5f5"
+        },
+        {
+            "name": "login_btn_red",
+            "value": "#FA436A"
+        },
+        {
+            "name": "text_blue",
+            "value": "#4399fc"
+        },
+        {
+            "name": "tabs_item_normal",
+            "value": "#C0C4CC"
+        },
+        {
+            "name": "text_normal",
+            "value": "#909399"
+        },
+        {
+            "name": "text_normal_2",
+            "value": "#FF5B5D60"
+        },
+        {
+            "name": "box_bottom_line",
+            "value": "#20000000"
+        },
+        {
+            "name": "transparent",
+            "value": "#00FFFFFF"
+        },
+        {
+            "name": "text_placeholder",
+            "value": "#D590939B"
+        },
+        {
+            "name": "btn_color_1",
+            "value": "#95FFF3F4"
+        },
+        {
+            "name": "text_normal_4",
+            "value": "#303133"
+        },
+        {
+            "name": "btn_color_2",
+            "value": "#FA436A"
+        },
+        {
+            "name": "text_normal_3",
+            "value": "#75787d"
+        },
+        {
+            "name": "text_normal_05t",
+            "value": "#8175787D"
+        },
+        {
+            "name": "divider",
+            "value": "#20B0B0B0"
+        },{
+            "name": "white_08t",
+            "value": "#E6FFFFFF"
+        }
+    ]
+}

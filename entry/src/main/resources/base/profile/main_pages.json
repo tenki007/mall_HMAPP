@@ -1,5 +1,19 @@
 {
   "src": [
-    "pages/Index"
+    "pages/Index",
+    "pages/Login/Login",
+    "pages/My/Details/setting",
+    "pages/My/Details/address",
+    "pages/My/Details/addAddress",
+    "pages/My/Details/order",
+    "pages/Cart/orderset",
+    "pages/Cart/pay",
+    "pages/Cart/paySuccess",
+    "pages/Cate/CateDetail",
+    "pages/Home/Product/ProductDetail",
+    "pages/Home/brand",
+    "pages/Home/brandDetail",
+    "pages/Home/newProduct",
+    "pages/Home/hotProduct"
   ]
 }
